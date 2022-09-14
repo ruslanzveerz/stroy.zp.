@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;300&display=swap');
+body{
+  font-family: Roboto Slab;
+}
+.box{
+background: url(../img/dizajn-i-remont-kvartir-pod-klyuch-kiev-3.jpg);
+}
+
+.block__1{
+    background-color: yellow;
+    font-size: 20px;
+    text-align: center;
+    padding: 6px;
+    margin: 30px 30px 60px 30px;
+}
+.p{
+    background-color: black;
+    color: darkgreen;
+    font-size: 23px;
+    text-align: center;
+    border-radius: 15px;
+    right: 30ch;
+    margin: 5px;
+    border: solid rgb(115, 150, 126) 5px;
+}
+.block__2{
+    font-family: cursive;
+    font-size: 30px;
+    text-align: center;
+    margin: 15px;
+}
+.sticky {
+    position: sticky;
+    top: 0;
+  }
+  .example-block{
+    border: solid #000;
+    background-color: black;
+    color: darkgreen;
+    font-size: 20px;
+    right: 30ch;
+  }
+  .block__4{
+    background-color: aliceblue;
+    font-size: 25px;
+    font-family: cursive;
+    text-align: center;
+  }
+  .p_2{
+    color: wheat;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 10px;
+}
+.box_1{
+  background-color: cornflowerblue;
+  right: 50ch;
+  border-radius: 10px;
+}
+.box_2{
+  background-color: coral;
+  border-radius: 30px;
+  left: 25ch;
+}
+.p_1{
+border: solid #000 5px;
+background-color: wheat;
+color: green;
+font-size: 25px;
+text-align: center;
+border-radius: 10px;
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.block_0{
+  background-color: rgb(204, 250, 0);
+  border: solid #000 5px;
+  text-align: center;
+  font-size: 28px;
+  border-radius: 15px;
+  font-family: fantasy;
+}
+.block_1{
+font-size: 50px;
+background-color: rgb(255, 0, 0);
+overflow: hidden;
+border-bottom: before;
+}
+.line{
+  color: rgb(255, 0, 0);
+}
+.box__1{
+  border: #000 0px solid;
+}
+
+.block_2{
+  color: rgb(16, 99, 0);
+  font-size: 25px;
+  border: #000 solid 4px;
+  background-color:aliceblue;
+  border-radius: 10px;
+}
+.aling{
+  text-align: left;
+  margin: 8px;
+}
+.aling_1{
+  text-align: right;
+  margin: 8px;
+}
+.scroll{
+  scroll-behavior: smooth;
+}
+.div__2 a{
+  text-align: right;
+  color: rgb(16, 99, 0);
+  font-size: 20px;
+}
+h2{
+  background-color: aliceblue;
+  font-size: 26px;
+  text-align: center;
+
+}
